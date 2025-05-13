@@ -1,41 +1,27 @@
-### Hi there, I'm Akhil Nadh Pc  👋
+# Akhil Nadh Pc
 
+> Lead Data Scientist | Computer Vision & NLP Expert
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pcakhilnadh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpcakhilnadh&screen_name=pcakhilnadh)
+## About Me
 
-## I'm a Developer and Photographer!!
+Hello! I'm Akhil, a passionate and experienced Data Scientist with expertise in Computer Vision and NLP, passionate about solving real-world problems through AI.
 
-- 🔭  Machine Learning Engineer
-- ⚡  Fun fact: I click pictures when I don't multiply matrices.
+🌐 [Visit my portfolio site](https://pcakhilnadh.github.io/akhilnadhpc/)
 
+## Core Skills
 
+- **Computer Vision:** OpenCV, PyTorch, Object Detection, Image Classification
+- **NLP & Generative AI:** Hugging Face Transformers, LangChain, BERT, GPT-4
+- **MLOps:** AWS, Docker, MLflow, FastAPI
+- **ML Engineering:** scikit-learn, XGBoost, Feature Engineering
 
-### Connect with me:
+ 
 
-[<img align="left" alt="pcakhilnadh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pcakhilnadh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="pcakhilnadh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Let's Connect
 
-<br />
-
-
-<br />
-<br />
-
+- LinkedIn: [akhilnadhpc](https://linkedin.com/in/akhilnadhpc)
+- Site    : [https://pcakhilnadh.github.io/akhilnadhpc/](https://pcakhilnadh.github.io/akhilnadhpc/)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
-[twitter]: https://twitter.com/pcakhilnadh
-[instagram]: https://instagram.com/pcakhilnadh
-[linkedin]: https://linkedin.com/in/pcakhilnadh
+*When I don't multiply matrices, you'll find me travelling or exploring photography.*
