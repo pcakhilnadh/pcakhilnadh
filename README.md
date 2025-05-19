@@ -6,7 +6,7 @@
 
 Hello! I'm Akhil, a passionate and experienced Data Scientist with expertise in Computer Vision and NLP, passionate about solving real-world problems through AI.
 
-🌐 [Visit my portfolio site](https://pcakhilnadh.github.io/)
+🌐 [Visit my portfolio site](https://akhilnadhpc.in/)
 
 ## Core Skills
 
@@ -20,7 +20,7 @@ Hello! I'm Akhil, a passionate and experienced Data Scientist with expertise in 
 ## Let's Connect
 
 - LinkedIn: [akhilnadhpc](https://linkedin.com/in/akhilnadhpc)
-- Site    : [https://pcakhilnadh.github.io/akhilnadhpc/](https://pcakhilnadh.github.io/akhilnadhpc/)
+- Site    : [https://akhilnadhpc.in/](https://akhilnadhpc.in/)
 
 ---
 
